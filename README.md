@@ -1,4 +1,6 @@
 # Assignment 2 Report: GitHub Pages Resume Website
+My Github Page:
+https://github.com/itsyippie/Yen-Phuong.github.io
 
 ### Step 1: Create a GitHub Repository
 
