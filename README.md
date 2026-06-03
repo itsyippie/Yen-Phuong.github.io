@@ -14,25 +14,30 @@ Website: https://html5up.net/
 1. Download template
 2. Upload all file to repository
 3. Commit changes
+4. Create static.yml
 
 ### Step 3: Enable GitHub Pages
 
-1. Opened the repository settings.
+1. Oened the repository settings.
 2. Navigated to **Settings → Pages**.
 3. Selected:
-
-   * Source: **Deploy from a branch**
-   * Branch: **main**
-   * Folder: **/(root)**
-4. Saved the configuration.
+   * Source: **Github Action**
+   * Static HTML
+4. Create static.yml
 
 ---
 
-### Step 5: Deploy the Website
+### Step 4: Deploy website
+1. Go to Action to check your process
+<img width="1772" height="491" alt="image" src="https://github.com/user-attachments/assets/2a24a02b-b2a7-44a5-9241-e5c5220acdfb" />
 
-1. Waited for GitHub Pages to build and deploy the website.
-2. Verified that the website was successfully published online.
-
+2. Waited for GitHub Pages to build and deploy the website.
+3. Verified that the website was successfully published online.
+<img width="1858" height="921" alt="image" src="https://github.com/user-attachments/assets/6e5ff6b4-163b-4f9c-b142-ecc0342b4fe3" />
 ---
 
-I successfully created a GitHub Pages website and added a dedicated resume page. The website is publicly accessible and can be expanded in the future with additional projects, experiences, skills, and achievements.
+### My website
+https://itsyippie.github.io/Yen-Phuong.github.io/
+
+<img width="1810" height="974" alt="image" src="https://github.com/user-attachments/assets/7332a104-b47d-406b-a455-45a3ad998a45" />
+
